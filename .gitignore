@@ -1,0 +1,6 @@
+target/
+logs/
+/classes/
+/test-classes/
+**/dependency/*
+nb-configuration.xml
